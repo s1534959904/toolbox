@@ -1,41 +1,48 @@
-##  �v���W�F�N�g�T�v
-���E�ł͈����@��̂Ȃ��Z�p�̈���A����I�Ȋw�K�Ƃ��Č��؂������^�c�[���W�ł��B  
-�����I�ȃL�����A�̕��������������AAI API�A�g�E�X�N���C�s���O�EQR�R�[�h�����E  
-�N���E�h�ʐM�ȂǁA���o���̈�̊�b�\����Z���ԂŔc�����邱�Ƃ�ړI�Ƃ��܂����B
+## 見て欲しいファイル
+QR機能          -QRCode.cs
+クラウド機能    -Cloud.cs
+AIチャット      -AI_ds.cs
+
+
+
+##  プロジェクト概要
+現職では扱う機会のない技術領域を、自主的な学習として検証した小型ツール集です。  
+将来的なキャリアの方向性を見据え、AI API連携・スクレイピング・QRコード生成・  
+クラウド通信など、未経験領域の基礎構造を短期間で把握することを目的としました。
 
 ---
 
-##  ��ȋ@�\
-- **�X�N���C�s���O�c�[��**�FBilibili�T�C�g�����������擾���A�f�[�^�����̗��������  
-- **QR�R�[�h�ϊ��c�[��**�F���̓e�L�X�g��QR�R�[�h�֕ϊ��^�t�ϊ�����o�����c�[��  
-- **AI�`���b�g�c�[��**�FDeepSeek API�ƒʐM���A�ȈՃ`���b�g�`����AI�ƑΘb  
-- **�N���E�h�A�b�v���[�h�@�\**�F�����f�[�^���N���E�h�iLeanCloud�j�փA�b�v���[�h���A�O���ʐM����������  
+##  主な機能
+- **スクレイピングツール**：Bilibiliサイトから特定情報を取得し、データ処理の流れを検証  
+- **QRコード変換ツール**：入力テキストをQRコードへ変換／逆変換する双方向ツール  
+- **AIチャットツール**：DeepSeek APIと通信し、簡易チャット形式でAIと対話  
+- **クラウドアップロード機能**：生成データをクラウド（LeanCloud）へアップロードし、外部通信処理を検証  
 
 ---
 
-##  �w�񂾂��ƁE�ړI
-- API�ʐM��񓯊������̊�{�\���𗝉�  
-- �f�[�^�擾�E���H�E�ۑ��̈�A�̗�����\�z  
-- UI�C�x���g��ʂ����@�\�����ƃ��W���[�����̗��K  
-- �Ɩ��ł͈����@��̏��Ȃ�����ɋ����������A�l�w�K�Ƃ��ĒZ���Ԃł������̃c�[�������삵�܂����B
+##  学んだこと・目的
+- API通信や非同期処理の基本構造を理解  
+- データ取得・加工・保存の一連の流れを構築  
+- UIイベントを通じた機能分離とモジュール化の練習  
+- 業務では扱う機会の少ない分野に興味を持ち、個人学習として短期間でいくつかのツールを試作しました。
 
 ---
 
-##  �f������
-YouTube�ɓ���f�������J���Ă��܂��B  
-�A�v���̍\���⓮��T�v���A�j���[�V�����{AI�����ŉ�����Ă��܂��B  
-?? [�f�����������](https://www.youtube.com/watch?v=Aa2ErAW1CFk&t=3s) 
+##  デモ動画
+YouTubeに動作デモを公開しています。  
+アプリの構成や動作概要をアニメーション＋AI音声で解説しています。  
+?? [デモ動画を見る](https://www.youtube.com/watch?v=Aa2ErAW1CFk&t=3s) 
 
 ---
 
-##  �J����
-- ����FC#�i.NET Framework / WinForms�j  
-- �g�p�Z�p�FHttpClient / JSON�ʐM / QRCode���C�u���� / LeanCloud SDK  
-- �J�����ԁF��5���ԁi����4h + ����1h�j
+##  開発環境
+- 言語：C#（.NET Framework / WinForms）  
+- 使用技術：HttpClient / JSON通信 / QRCodeライブラリ / LeanCloud SDK  
+- 開発時間：約5時間（調査4h + 実装1h）
 
 ---
 
-##  �⑫
-���̃v���W�F�N�g�͋Ɩ��O�̌l�w�K�Ƃ��Đ��삵�����̂ł���A  
-���E�ň����Z�p�̈�̊g���A����э���̓]�E�����Ɍ������X�L��������ړI�Ƃ��Ă��܂��B
+##  補足
+このプロジェクトは業務外の個人学習として制作したものであり、  
+現職で扱う技術領域の拡張、および今後の転職活動に向けたスキル強化を目的としています。
 
