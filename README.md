@@ -2,7 +2,7 @@
 動画説明(https://www.youtube.com/watch?v=Aa2ErAW1CFk&t=3s)
 
 
-QR機能 -QRCode.cs
-クラウド機能 -Cloud.cs
-AIチャット -AI_ds.cs
-クローラー機能 -Reptile_QR.cs
+-QR機能 -QRCode.cs
+-クラウド機能 -Cloud.cs
+-AIチャット -AI_ds.cs
+-クローラー機能 -Reptile_QR.cs
