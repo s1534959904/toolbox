@@ -1,8 +1,8 @@
 ## 見て欲しいファイル
-- **QR機能          -QRCode.cs
-- **クラウド機能    -Cloud.cs
-- **AIチャット      -AI_ds.cs
-- **クローラー機能  -Reptile_QR.cs
+- QR機能          -QRCode.cs
+- クラウド機能    -Cloud.cs
+- AIチャット      -AI_ds.cs
+- クローラー機能  -Reptile_QR.cs
 
 
 ##  プロジェクト概要
